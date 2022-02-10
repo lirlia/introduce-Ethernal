@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ethernal": "^0.9.0",
+    "truffle": "^5.4.32"
+  }
+}
